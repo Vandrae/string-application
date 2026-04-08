@@ -18,7 +18,7 @@ public class VariableApp {
         int daysNum = 7;
         double cofPrice = 4.99;
         String favLetter = "K";
-        Boolean isRain = true;
+        boolean isRain = true;
 
         //Display Variables in sentences
 
