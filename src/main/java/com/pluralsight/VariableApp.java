@@ -17,7 +17,7 @@ public class VariableApp {
         //Step 2 Variables
         int daysNum = 7;
         double cofPrice = 4.99;
-        String favLtter = "K";
+        String favLetter = "K";
         Boolean isRain = true;
 
         //Display Variables in sentences
@@ -32,7 +32,7 @@ public class VariableApp {
         //Step2
         System.out.println("There are " + daysNum + " Days in a Week.");
         System.out.println("The price of coffee is " + cofPrice + ".");
-        System.out.println("My favorite Letter is " + favLtter + ".");
+        System.out.println("My favorite Letter is " + favLetter + ".");
         System.out.println("It is " + isRain + " that it's raining.");
 
 
